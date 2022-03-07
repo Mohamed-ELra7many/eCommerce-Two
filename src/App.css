@@ -1,0 +1,24 @@
+/* glogal setting*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+}
+/* Dark mode*/
+body.Dark{
+  background-color: #1f243c;
+  color: #cbcbcb;
+}
+a{
+  text-decoration: none;
+  color:black;
+}
+
+.container{
+  margin: 20px auto;
+  padding: 0 30px;
+}
